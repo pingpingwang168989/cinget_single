@@ -24,6 +24,7 @@
     <ProjectGuid>{7577efff-736b-4276-b649-19325b7f0e24}</ProjectGuid>
     <RootNamespace>cingetsingle</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>cin.getline().cinget_single</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
